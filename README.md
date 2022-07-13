@@ -4,7 +4,9 @@ Welcome to the SwiftUI Animation Challenge where we hand out animation challenge
 
 This week's challenge is inspired by the Spotify now playing animation in its macOS app:
 
-https://user-images.githubusercontent.com/12433593/178610764-f04415fe-a0e3-4ef8-bffd-ee727dc1eeb2.mp4
+<p align="center">
+ <img src="https://github.com/SwiftUI-Animation-Challenges/Challenge-1/blob/main/ImagePreviews/1stChallenge.png"/>
+</p>
 
 ## 🤔 How does it work?
 
