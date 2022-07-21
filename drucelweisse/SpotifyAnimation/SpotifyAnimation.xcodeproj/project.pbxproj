@@ -11,6 +11,7 @@
 		6BABB347288943C100FF259E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BABB346288943C100FF259E /* ContentView.swift */; };
 		6BABB349288943C200FF259E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BABB348288943C200FF259E /* Assets.xcassets */; };
 		6BABB34C288943C200FF259E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BABB34B288943C200FF259E /* Preview Assets.xcassets */; };
+		6BABB3532889516800FF259E /* ScreenRecording.mov in Resources */ = {isa = PBXBuildFile; fileRef = 6BABB3522889516800FF259E /* ScreenRecording.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6BABB346288943C100FF259E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6BABB348288943C200FF259E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6BABB34B288943C200FF259E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6BABB3522889516800FF259E /* ScreenRecording.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = ScreenRecording.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		6BABB343288943C100FF259E /* SpotifyAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				6BABB3522889516800FF259E /* ScreenRecording.mov */,
 				6BABB344288943C100FF259E /* SpotifyAnimationApp.swift */,
 				6BABB346288943C100FF259E /* ContentView.swift */,
 				6BABB348288943C200FF259E /* Assets.xcassets */,
@@ -127,6 +130,7 @@
 			files = (
 				6BABB34C288943C200FF259E /* Preview Assets.xcassets in Resources */,
 				6BABB349288943C200FF259E /* Assets.xcassets in Resources */,
+				6BABB3532889516800FF259E /* ScreenRecording.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
