@@ -12,6 +12,7 @@ struct Spotify_AnimationApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .preferredColorScheme(.dark)
         }
     }
 }

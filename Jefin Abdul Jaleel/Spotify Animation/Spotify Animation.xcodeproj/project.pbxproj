@@ -11,6 +11,7 @@
 		A1B12BB428C783B900C79EE4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B12BB328C783B900C79EE4 /* ContentView.swift */; };
 		A1B12BB628C783B900C79EE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B12BB528C783B900C79EE4 /* Assets.xcassets */; };
 		A1B12BB928C783B900C79EE4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B12BB828C783B900C79EE4 /* Preview Assets.xcassets */; };
+		A1B12BC028C7848100C79EE4 /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B12BBF28C7848100C79EE4 /* AnimationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A1B12BB328C783B900C79EE4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A1B12BB528C783B900C79EE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1B12BB828C783B900C79EE4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A1B12BBF28C7848100C79EE4 /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A1B12BB128C783B900C79EE4 /* Spotify_AnimationApp.swift */,
 				A1B12BB328C783B900C79EE4 /* ContentView.swift */,
+				A1B12BBF28C7848100C79EE4 /* AnimationView.swift */,
 				A1B12BB528C783B900C79EE4 /* Assets.xcassets */,
 				A1B12BB728C783B900C79EE4 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1B12BC028C7848100C79EE4 /* AnimationView.swift in Sources */,
 				A1B12BB428C783B900C79EE4 /* ContentView.swift in Sources */,
 				A1B12BB228C783B900C79EE4 /* Spotify_AnimationApp.swift in Sources */,
 			);

@@ -9,8 +9,11 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        HStack {
+            ForEach(0..<4, id: \.self) { _ in
+               AnimationView()
+            }
+        }.frame(width: 300, height: 200)
     }
 }
 
