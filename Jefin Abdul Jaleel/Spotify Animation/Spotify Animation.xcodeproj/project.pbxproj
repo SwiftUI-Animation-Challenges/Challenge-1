@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A1B12B9828C7831F00C79EE4 /* Spotify_AnimationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B12B9728C7831F00C79EE4 /* Spotify_AnimationApp.swift */; };
-		A1B12B9A28C7831F00C79EE4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B12B9928C7831F00C79EE4 /* ContentView.swift */; };
-		A1B12B9C28C7832000C79EE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B12B9B28C7832000C79EE4 /* Assets.xcassets */; };
-		A1B12B9F28C7832000C79EE4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B12B9E28C7832000C79EE4 /* Preview Assets.xcassets */; };
+		A1B12BB228C783B900C79EE4 /* Spotify_AnimationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B12BB128C783B900C79EE4 /* Spotify_AnimationApp.swift */; };
+		A1B12BB428C783B900C79EE4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B12BB328C783B900C79EE4 /* ContentView.swift */; };
+		A1B12BB628C783B900C79EE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B12BB528C783B900C79EE4 /* Assets.xcassets */; };
+		A1B12BB928C783B900C79EE4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B12BB828C783B900C79EE4 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A1B12B9428C7831F00C79EE4 /* Spotify Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Spotify Animation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A1B12B9728C7831F00C79EE4 /* Spotify_AnimationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spotify_AnimationApp.swift; sourceTree = "<group>"; };
-		A1B12B9928C7831F00C79EE4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A1B12B9B28C7832000C79EE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A1B12B9E28C7832000C79EE4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A1B12BAE28C783B900C79EE4 /* Spotify Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Spotify Animation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1B12BB128C783B900C79EE4 /* Spotify_AnimationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spotify_AnimationApp.swift; sourceTree = "<group>"; };
+		A1B12BB328C783B900C79EE4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A1B12BB528C783B900C79EE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A1B12BB828C783B900C79EE4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A1B12B9128C7831F00C79EE4 /* Frameworks */ = {
+		A1B12BAB28C783B900C79EE4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -32,37 +32,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A1B12B8B28C7831F00C79EE4 = {
+		A1B12BA528C783B900C79EE4 = {
 			isa = PBXGroup;
 			children = (
-				A1B12B9628C7831F00C79EE4 /* Spotify Animation */,
-				A1B12B9528C7831F00C79EE4 /* Products */,
+				A1B12BB028C783B900C79EE4 /* Spotify Animation */,
+				A1B12BAF28C783B900C79EE4 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A1B12B9528C7831F00C79EE4 /* Products */ = {
+		A1B12BAF28C783B900C79EE4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A1B12B9428C7831F00C79EE4 /* Spotify Animation.app */,
+				A1B12BAE28C783B900C79EE4 /* Spotify Animation.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A1B12B9628C7831F00C79EE4 /* Spotify Animation */ = {
+		A1B12BB028C783B900C79EE4 /* Spotify Animation */ = {
 			isa = PBXGroup;
 			children = (
-				A1B12B9728C7831F00C79EE4 /* Spotify_AnimationApp.swift */,
-				A1B12B9928C7831F00C79EE4 /* ContentView.swift */,
-				A1B12B9B28C7832000C79EE4 /* Assets.xcassets */,
-				A1B12B9D28C7832000C79EE4 /* Preview Content */,
+				A1B12BB128C783B900C79EE4 /* Spotify_AnimationApp.swift */,
+				A1B12BB328C783B900C79EE4 /* ContentView.swift */,
+				A1B12BB528C783B900C79EE4 /* Assets.xcassets */,
+				A1B12BB728C783B900C79EE4 /* Preview Content */,
 			);
 			path = "Spotify Animation";
 			sourceTree = "<group>";
 		};
-		A1B12B9D28C7832000C79EE4 /* Preview Content */ = {
+		A1B12BB728C783B900C79EE4 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				A1B12B9E28C7832000C79EE4 /* Preview Assets.xcassets */,
+				A1B12BB828C783B900C79EE4 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -70,13 +70,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A1B12B9328C7831F00C79EE4 /* Spotify Animation */ = {
+		A1B12BAD28C783B900C79EE4 /* Spotify Animation */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A1B12BA228C7832000C79EE4 /* Build configuration list for PBXNativeTarget "Spotify Animation" */;
+			buildConfigurationList = A1B12BBC28C783B900C79EE4 /* Build configuration list for PBXNativeTarget "Spotify Animation" */;
 			buildPhases = (
-				A1B12B9028C7831F00C79EE4 /* Sources */,
-				A1B12B9128C7831F00C79EE4 /* Frameworks */,
-				A1B12B9228C7831F00C79EE4 /* Resources */,
+				A1B12BAA28C783B900C79EE4 /* Sources */,
+				A1B12BAB28C783B900C79EE4 /* Frameworks */,
+				A1B12BAC28C783B900C79EE4 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,25 +84,25 @@
 			);
 			name = "Spotify Animation";
 			productName = "Spotify Animation";
-			productReference = A1B12B9428C7831F00C79EE4 /* Spotify Animation.app */;
+			productReference = A1B12BAE28C783B900C79EE4 /* Spotify Animation.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A1B12B8C28C7831F00C79EE4 /* Project object */ = {
+		A1B12BA628C783B900C79EE4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
 				LastUpgradeCheck = 1320;
 				TargetAttributes = {
-					A1B12B9328C7831F00C79EE4 = {
+					A1B12BAD28C783B900C79EE4 = {
 						CreatedOnToolsVersion = 13.2;
 					};
 				};
 			};
-			buildConfigurationList = A1B12B8F28C7831F00C79EE4 /* Build configuration list for PBXProject "Spotify Animation" */;
+			buildConfigurationList = A1B12BA928C783B900C79EE4 /* Build configuration list for PBXProject "Spotify Animation" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = A1B12B8B28C7831F00C79EE4;
-			productRefGroup = A1B12B9528C7831F00C79EE4 /* Products */;
+			mainGroup = A1B12BA528C783B900C79EE4;
+			productRefGroup = A1B12BAF28C783B900C79EE4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A1B12B9328C7831F00C79EE4 /* Spotify Animation */,
+				A1B12BAD28C783B900C79EE4 /* Spotify Animation */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A1B12B9228C7831F00C79EE4 /* Resources */ = {
+		A1B12BAC28C783B900C79EE4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1B12B9F28C7832000C79EE4 /* Preview Assets.xcassets in Resources */,
-				A1B12B9C28C7832000C79EE4 /* Assets.xcassets in Resources */,
+				A1B12BB928C783B900C79EE4 /* Preview Assets.xcassets in Resources */,
+				A1B12BB628C783B900C79EE4 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A1B12B9028C7831F00C79EE4 /* Sources */ = {
+		A1B12BAA28C783B900C79EE4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1B12B9A28C7831F00C79EE4 /* ContentView.swift in Sources */,
-				A1B12B9828C7831F00C79EE4 /* Spotify_AnimationApp.swift in Sources */,
+				A1B12BB428C783B900C79EE4 /* ContentView.swift in Sources */,
+				A1B12BB228C783B900C79EE4 /* Spotify_AnimationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A1B12BA028C7832000C79EE4 /* Debug */ = {
+		A1B12BBA28C783B900C79EE4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -206,7 +206,7 @@
 			};
 			name = Debug;
 		};
-		A1B12BA128C7832000C79EE4 /* Release */ = {
+		A1B12BBB28C783B900C79EE4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -261,7 +261,7 @@
 			};
 			name = Release;
 		};
-		A1B12BA328C7832000C79EE4 /* Debug */ = {
+		A1B12BBD28C783B900C79EE4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -290,7 +290,7 @@
 			};
 			name = Debug;
 		};
-		A1B12BA428C7832000C79EE4 /* Release */ = {
+		A1B12BBE28C783B900C79EE4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -322,25 +322,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A1B12B8F28C7831F00C79EE4 /* Build configuration list for PBXProject "Spotify Animation" */ = {
+		A1B12BA928C783B900C79EE4 /* Build configuration list for PBXProject "Spotify Animation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A1B12BA028C7832000C79EE4 /* Debug */,
-				A1B12BA128C7832000C79EE4 /* Release */,
+				A1B12BBA28C783B900C79EE4 /* Debug */,
+				A1B12BBB28C783B900C79EE4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A1B12BA228C7832000C79EE4 /* Build configuration list for PBXNativeTarget "Spotify Animation" */ = {
+		A1B12BBC28C783B900C79EE4 /* Build configuration list for PBXNativeTarget "Spotify Animation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A1B12BA328C7832000C79EE4 /* Debug */,
-				A1B12BA428C7832000C79EE4 /* Release */,
+				A1B12BBD28C783B900C79EE4 /* Debug */,
+				A1B12BBE28C783B900C79EE4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A1B12B8C28C7831F00C79EE4 /* Project object */;
+	rootObject = A1B12BA628C783B900C79EE4 /* Project object */;
 }
